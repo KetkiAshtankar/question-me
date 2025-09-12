@@ -1,0 +1,13 @@
+MINI TASK TEST CASE 5 PROBLEM
+The OrangeHRM demo site does not allow actual creation of new users. After filling the form correctly and clicking the “Save” button:
+
+The site does not process or save the user
+
+No redirect or confirmation occurs
+
+The user is not added to the system
+
+Login with the new user fails
+
+TimeoutExceptions occur because the app waits for the success screen which never comes.
+What should i do next 
